@@ -1,2 +1,2 @@
 # RoR
-ROR notes
+ROR notes, please see at wiki page!
